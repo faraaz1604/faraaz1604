@@ -1,4 +1,4 @@
-<a href="#"><img width="75%" height="auto" src="https://imgur.com/3HAw6l1.png" height="160px"/></a>
+<a href="#"><img width="80%" height="auto" src="https://imgur.com/yymcg1N.png" class="center"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Faraaz</h1>
 <h3 align="center">I'm  independent and self-motivated  individual from India.</h3>
@@ -10,7 +10,7 @@
 
 - 📚 I’m currently learning **Everything.** 🤷‍♂️
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- ⚙💻 I’m looking to collaborate on **OpenSource Projects**
 
 - ⚙📲 All of my projects are available at **[My Portfolio](http://mohamedfaraaz.epizy.com/)**
 
