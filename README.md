@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 💻 I’m Computer Science engineering student studing in **Mycem**
+- 💻 I’m Computer Science engineering student studying in **Mycem**
 
 - 📚 I’m currently learning **Everything.** 🤷‍♂️
 
