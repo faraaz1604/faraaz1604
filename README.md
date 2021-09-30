@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://imgur.com/HClcPZS.png" height="160px"/></a>
+<a href="#"><img width="75%" height="auto" src="https://imgur.com/3HAw6l1.png" height="160px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Faraaz</h1>
 <h3 align="center">I'm  independent and self-motivated  individual from India.</h3>
