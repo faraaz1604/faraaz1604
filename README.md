@@ -69,7 +69,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/Mohd Faraaz/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://https://www.linkedin.com/in/mohd-faraaz-7b9511222//"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "http://mohamedfaraaz.epizy.com/?i=1"><img src="https://img.icons8.com/color/48/000000/domain--v1.png"/></a>
 <a href = "https://www.instagram.com/faraaz_1604/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <!-- <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
