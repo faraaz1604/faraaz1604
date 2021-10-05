@@ -44,7 +44,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/faraaz1604/github-readme-streak-stats">
+    <a href="https://www.linkedin.com/in/mohd-faraaz-7b9511222//github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mohamed faraaz" src="https://github-readme-streak-stats.herokuapp.com/?user=faraaz1604&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
