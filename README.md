@@ -16,7 +16,7 @@
 
 - 👀 How to reach me **mohamedfaraaz007@gmail.com**
 
-- 😜 Fun fact **I can hack NASA using HTML and I workout very often.**
+- 😜 Fun fact ** I workout very often.**
 
 ## 🚀 Languages and Tools:
 
