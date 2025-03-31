@@ -27,22 +27,8 @@
     </a>
 </p>
 
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/faraaz1604/github-readme-stats"><img alt="Mohamed faraaz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=faraaz1604&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/faraaz1604/github-readme-stats"><img alt="Moahamed faraaz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraaz1604&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/faraaz1604/github-readme-activity-graph"><img alt="Mohamed faraaz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=faraaz1604&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
+📊 GitHub Stats
+<p align="center"> <a href="https://github.com/faraaz1604/github-readme-stats"> <img alt="Mohamed Faraaz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=faraaz1604&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> </a> </p> <p align="center"> <a href="https://github.com/faraaz1604/github-readme-stats"> <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraaz1604&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/> </a> </p> <p align="center"> <a href="https://github.com/faraaz1604/github-readme-streak-stats"> <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=faraaz1604&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&currStreakNum=2&longestStreakNum=8"/> </a> </p>
 
 ## 🌍 Let's Connect
 <p align="left"> <a href="https://www.linkedin.com/in/mohd-faraaz-7b9511222/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> <a href="https://faraaz1604.github.io/faraaz.github.io/"><img src="https://img.icons8.com/color/48/000000/domain--v1.png"/></a> <a href="https://www.instagram.com/faraaz_1604/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> </p>
