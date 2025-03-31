@@ -6,13 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 💻👋 I'm a Java Backend Developer with 3 years of experience in Spring Boot.
+- 💻 I'm a Java Backend Developer with 3 years of experience in Spring Boot.
 
 - 📚 I’m currently learning **Everything.** 🤷‍♂️
 
-- ⚙💻 I’m looking to collaborate on **OpenSource Projects**
+- ⚙ I’m looking to collaborate on **OpenSource Projects**
 
-- ⚙📲 All of my projects are available at **[My Portfolio](https://faraaz1604.github.io/faraaz.github.io/)**
+- ⚙ All of my projects are available at **[My Portfolio](https://faraaz1604.github.io/faraaz.github.io/)**
 
 - 👀 How to reach me **mohamedfaraaz007@gmail.com**
 
