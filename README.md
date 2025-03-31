@@ -21,13 +21,8 @@
 <p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/> </a> <a href="https://kubernetes.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> </p>
 <br/>
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/mohd-faraaz-7b9511222//github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mohamed faraaz" src="https://github-readme-streak-stats.herokuapp.com/?user=faraaz1604&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center"> <a href="https://github.com/faraaz1604/github-readme-stats"> <img alt="Mohamed Faraaz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=faraaz1604&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> </a> </p> <p align="center"> <a href="https://github.com/faraaz1604/github-readme-stats"> <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraaz1604&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/> </a> </p> <p align="center"> <a href="https://github.com/faraaz1604/github-readme-streak-stats"> <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=faraaz1604&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&currStreakNum=2&longestStreakNum=8"/> </a> </p>
 
 ## 🌍 Let's Connect
