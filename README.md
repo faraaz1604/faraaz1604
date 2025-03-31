@@ -6,24 +6,24 @@
 
 ## 🙋‍♂️ About Me
 
-- 💻 I’m Computer Science engineering student studying in **Mycem**
+- 💻👋 I'm a Java Backend Developer with 3 years of experience in Spring Boot.
 
 - 📚 I’m currently learning **Everything.** 🤷‍♂️
 
 - ⚙💻 I’m looking to collaborate on **OpenSource Projects**
 
-- ⚙📲 All of my projects are available at **[My Portfolio](http://mohamedfaraaz.epizy.com/)**
+- ⚙📲 All of my projects are available at **[My Portfolio](https://faraaz1604.github.io/faraaz.github.io/)**
 
 - 👀 How to reach me **mohamedfaraaz007@gmail.com**
 
-- 😜 Fun fact ** I workout very often.**
+- 💡 Always learning and improving in Java & Spring Boot.
 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <!-- <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> -->
-    <a href="https://spring.io/projects/wordpress" target="_blank"> <img src="https://img.icons8.com/color/48/000000/wordpress.png"/> </a> 
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+<!--     <a href="https://spring.io/projects/wordpress" target="_blank"> <img src="https://img.icons8.com/color/48/000000/wordpress.png"/> </a>  -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
@@ -70,7 +70,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/mohd-faraaz-7b9511222//"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "http://mohamedfaraaz.epizy.com/?i=1"><img src="https://img.icons8.com/color/48/000000/domain--v1.png"/></a>
+<a href = "https://faraaz1604.github.io/faraaz.github.io/?i=1"><img src="https://img.icons8.com/color/48/000000/domain--v1.png"/></a>
 <a href = "https://www.instagram.com/faraaz_1604/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <!-- <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 
