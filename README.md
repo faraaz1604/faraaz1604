@@ -51,25 +51,38 @@
 
 ## 💼 Technical Skills
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![RESTful API](https://img.shields.io/badge/RESTful%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+**Backend Development**
+- <img src="https://img.icons8.com/color/18/000000/java-coffee-cup-logo.png"/> Java
+- <img src="https://img.icons8.com/color/18/000000/spring-logo.png"/> Spring & Spring Boot
+- RESTful API Development
+- Microservices Architecture
+
+**Frontend Development**
+- <img src="https://img.icons8.com/color/18/000000/react-native.png"/> React
+- <img src="https://img.icons8.com/color/18/000000/javascript.png"/> JavaScript
+- HTML5 & CSS3
+
+**Database Systems**
+- <img src="https://img.icons8.com/color/18/000000/postgresql.png"/> PostgreSQL
+- <img src="https://img.icons8.com/color/18/000000/mongodb.png"/> MongoDB
+
+**DevOps & Tools**
+- <img src="https://img.icons8.com/color/18/000000/docker.png"/> Docker
+- <img src="https://img.icons8.com/color/18/000000/kubernetes.png"/> Kubernetes
+- <img src="https://img.icons8.com/color/18/000000/git.png"/> Git & GitHub
+- CI/CD Pipelines
 
 ## 🌍 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-faraaz-7b9511222/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://faraaz1604.github.io/faraaz.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="mailto:mohamedfaraaz007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  </p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohamed-faraaz-7b9511222/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://faraaz1604.github.io/faraaz.github.io/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=google-chrome" alt="Portfolio" />
+  </a>
+  <a href="mailto:mohamedfaraaz007@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Email-black?style=flat&logo=gmail" alt="Email" />
+  </a>
+</div>
 
 
