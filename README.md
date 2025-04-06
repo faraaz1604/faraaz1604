@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://images.pexels.com/photos/8288049/pexels-photo-8288049.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" width="80%" style="padding: 20px; border-radius: 10px;" />
+  <img src="https://images.pexels.com/photos/8288049/pexels-photo-8288049.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+       width="80%"
+       style="padding: 20px; border-radius: 10px; box-shadow: 0px 0px 20px rgba(0,0,0,0.5);" />
 </p>
+
 
 
 
