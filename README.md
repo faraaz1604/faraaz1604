@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg" width="80%" style="padding: 20px; border-radius: 10px;" />
+  <img src="https://images.pexels.com/photos/8288049/pexels-photo-8288049.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" width="80%" style="padding: 20px; border-radius: 10px;" />
 </p>
 
 
