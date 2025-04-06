@@ -1,4 +1,4 @@
-<a href="#"><img width="80%" height="auto" src="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg" class="center"/></a>
+<a href="#"><img width="80%" height="auto" src="https://images.pexels.com/photos/4584830/pexels-photo-4584830.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" class="center"/></a>
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Faraaz</h1>
