@@ -29,7 +29,7 @@
   <a href="https://spring.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="spring"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="postgresql"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.icons8.com/?size=100&id=Pv4IGT0TSpt8&format=png&color=000000" alt="postgresql"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker"/></a>
   <a href="https://kubernetes.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes"/></a>
