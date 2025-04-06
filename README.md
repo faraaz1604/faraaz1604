@@ -40,13 +40,37 @@
 
 
 ## 📊 GitHub Stats
-<p align="center"> <a href="https://github.com/faraaz1604/github-readme-stats"> <img alt="Mohamed Faraaz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=faraaz1604&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> </a> </p> <p align="center"> <a href="https://github.com/faraaz1604/github-readme-stats"> <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraaz1604&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/> </a> </p> <p align="center"> <a href="https://github.com/faraaz1604/github-readme-streak-stats"> <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=faraaz1604&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&currStreakNum=2&longestStreakNum=8"/> </a> </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faraaz1604&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Mohamed Faraaz's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraaz1604&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" width="40%" />
+</div>
 
-## 🌍 Let's Connect
-<p align="left"> <a href="https://www.linkedin.com/in/mohd-faraaz-7b9511222/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> <a href="https://faraaz1604.github.io/faraaz.github.io/"><img src="https://img.icons8.com/color/48/000000/domain--v1.png"/></a> <a href="https://www.instagram.com/faraaz_1604/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> </p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faraaz1604&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub Streak" />
+</div>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=faraaz1604">
-</a>
-<a href="https://github.com/faraaz1604?tab=followers"><img src="https://img.shields.io/github/followers/faraaz1604?label=Followers&style=social" alt="GitHub Badge"></a>
+## 💼 Technical Skills
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+## 🌍 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohd-faraaz-7b9511222/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://faraaz1604.github.io/faraaz.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="mailto:mohamedfaraaz007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/faraaz_1604/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+
