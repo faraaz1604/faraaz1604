@@ -29,12 +29,12 @@
   <a href="https://spring.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="spring"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.icons8.com/?size=100&id=Pv4IGT0TSpt8&format=png&color=000000" alt="postgresql"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.icons8.com/?size=48&id=Pv4IGT0TSpt8&format=png&color=000000" alt="postgresql"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker"/></a>
   <a href="https://kubernetes.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" alt="git"/></a>
-  <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" alt="postman"/></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://img.icons8.com/?size=48&id=EPbEfEa7o8CB&format=png&color=000000" width="48" alt="postman"/></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/firebase.png" alt="firebase"/></a>
 </p>
 
