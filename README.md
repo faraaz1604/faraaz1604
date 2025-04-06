@@ -65,16 +65,10 @@
 ![CI/CD](https://img.shields.io/badge/CI/CD-333333?style=flat-square&logo=github-actions&logoColor=white)
 
 ## 🌍 Connect with Me
-<div align="center">
-  <a href="https://www.linkedin.com/in/mohamed-faraaz-7b9511222/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://faraaz1604.github.io/faraaz.github.io/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=google-chrome" alt="Portfolio" />
-  </a>
-  <a href="mailto:mohamedfaraaz007@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-Email-black?style=flat&logo=gmail" alt="Email" />
-  </a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-faraaz-7b9511222/"><img src="https://img.shields.io/badge/LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://faraaz1604.github.io/faraaz.github.io/"><img src="https://img.shields.io/badge/Portfolio-333333?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+  <a href="mailto:mohamedfaraaz007@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white"/></a>
+</p>
 
 
