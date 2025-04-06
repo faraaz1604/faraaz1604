@@ -51,26 +51,18 @@
 
 ## 💼 Technical Skills
 
-**Backend Development**
-- <img src="https://img.icons8.com/color/18/000000/java-coffee-cup-logo.png"/> Java
-- <img src="https://img.icons8.com/color/18/000000/spring-logo.png"/> Spring & Spring Boot
-- RESTful API Development
-- Microservices Architecture
-
-**Frontend Development**
-- <img src="https://img.icons8.com/color/18/000000/react-native.png"/> React
-- <img src="https://img.icons8.com/color/18/000000/javascript.png"/> JavaScript
-- HTML5 & CSS3
-
-**Database Systems**
-- <img src="https://img.icons8.com/color/18/000000/postgresql.png"/> PostgreSQL
-- <img src="https://img.icons8.com/color/18/000000/mongodb.png"/> MongoDB
-
-**DevOps & Tools**
-- <img src="https://img.icons8.com/color/18/000000/docker.png"/> Docker
-- <img src="https://img.icons8.com/color/18/000000/kubernetes.png"/> Kubernetes
-- <img src="https://img.icons8.com/color/18/000000/git.png"/> Git & GitHub
-- CI/CD Pipelines
+![Java](https://img.shields.io/badge/Java-333333?style=flat-square&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-333333?style=flat-square&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-333333?style=flat-square&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-333333?style=flat-square&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat-square&logo=javascript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-333333?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-333333?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-333333?style=flat-square&logo=git&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful_API-333333?style=flat-square&logo=postman&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-333333?style=flat-square&logo=github-actions&logoColor=white)
 
 ## 🌍 Connect with Me
 <div align="center">
