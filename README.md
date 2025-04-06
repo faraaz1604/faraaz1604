@@ -1,7 +1,7 @@
-<a href="#"><img width="80%" height="auto" src="https://imgur.com/yymcg1N.png" class="center"/></a>
+<a href="#"><img width="80%" height="auto" src="https://www.pexels.com/photo/data-codes-through-eyeglasses-577585/" class="center"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Faraaz</h1>
-<h3 align="center">🔥 Self-Driven Java Backend Developer from India | Code. Build. Improve..</h3>
+<h3 align="center">👨‍💻 Git Pushed, API Deployed – That’s My Flow.</h3>
 
 
 ## 🙋‍♂️ About Me
