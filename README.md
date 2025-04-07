@@ -13,15 +13,15 @@
 
 ## 🙋‍♂️ About Me
 
-- 💻 Java Backend Developer | Spring Boot Specialist (3+ years experience)
+- Java Backend Developer | Spring Boot Specialist (3+ years experience)
 
-- 📚 Always learning and exploring new technologies.
+- Always learning and exploring new technologies.
 
-- 🤝 Open to collaborations on Open Source Projects and backend development.
+- Open to collaborations on Open Source Projects and backend development.
 
-- 🔗 Explore my work: **[My Portfolio](https://faraaz1604.github.io/faraaz.github.io/)**
+- Explore my work: **[My Portfolio](https://faraaz1604.github.io/faraaz.github.io/)**
 
-- 📬 Reach me at: **mohamedfaraaz007@gmail.com**
+- Reach me at: **mohamedfaraaz007@gmail.com**
 
 ## ⚡ Languages and Tools:
 <p align="center">
